@@ -1,3 +1,6 @@
 [submodule "blogz_angular"]
 	path = blogz_angular
 	url = https://github.com/mounitbhandari/blogz_angular.git
+[submodule "blogz_api"]
+	path = blogz_api
+	url = https://github.com/mounitbhandari/blogz_api.git
